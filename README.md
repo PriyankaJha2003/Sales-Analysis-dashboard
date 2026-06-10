@@ -1,2 +1,2 @@
 # Sales-Analysis-dashboard
-This dashboard is an annual sales analysis dashboard
+This is an annual sales analysis dashboard.
